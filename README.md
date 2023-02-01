@@ -18,14 +18,7 @@ You can learn more about French Synth and UTAUS on [utaufrance.com](https://utau
 - [utaufrance.com](https://utaufrance.com/)
 - [Word request thread](#)
 
-## How to download and install dictionaries on Windows
-
-If you just want to install the dictionary without contributing, you won't need a Github account or to understand how to use Git.
-Just follow the two steps below : 
-
--  First, download the [CHN2FRA.json](#), [ENG2FRA.json](#), [JPN2FRA.json](#) or [ANY2FRA.json](#) file by clicking on the filename and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
-
-///
+## How to install dictionaries on Windows
 
 [Video tutorial on how to install dictionaries on Windows](https://www.youtube.com/watch?v=LI8hWO2PJGU)
 
@@ -33,7 +26,7 @@ Just follow the two steps below :
 
 ![CreateDictionary](https://i.imgur.com/XwpXmlU.png)
 
-- You can now drag and drop the .json file in the `mandarin-xsampa` or `english-arpabet` folder in your Synthesizer V install, the path should be `Dreamtonics/Synthesizer V/dicts/language-alphabet`.
+- You can now drag and drop the .json file in the `mandarin-xsampa`, `japanese-romaji` or `english-arpabet` folder in your Synthesizer V install, the path should be `Dreamtonics/Synthesizer V/dicts/language-alphabet`.
 
 ![DictionaryFolder](https://i.imgur.com/kHjXSCy.png)
 
@@ -47,19 +40,24 @@ If you want to add a word to the dictionary, please add it to the [Open Utau Dic
 
 You can type a word in French and split it in syllables with `+`. Because of the way Synth V handles syllables in Chinese, you'll have to add additional splits for CCs as shown below.
 
-![WordSplitting](https://i.imgur.com/GC7yjcb.png)
+![WordSplitting](https://i.imgur.com/QoQ5RSi.png)
 
 If you want to say words like `l'année` or `j'en` you'll have to split them in two notes `l'` + `année` and `j'` + `en` as shown below.
 
-![WordCombination](https://i.imgur.com/5K9zgrE.png)
+![WordCombination](https://i.imgur.com/6zxP6SR.png)
 
 In French, you also have [liaisons](https://en.wikipedia.org/wiki/Liaison_(French)), and some words might not always be pronounced the same way. Because of that, you may sometimes need to put `word(2)`, `word(3)` or even `word(4)`. For example, `absentes` has 4 entries.
 
 ![WordEntries](https://i.imgur.com/MsXgO0o.png)
 
+With the ANY2FRA dictionary, you can switch between Chinese, English & Japanese phonemes. You just need to add `*` for Japanese or `$` for English.
+
+![ANY2FRA](https://i.imgur.com/eMq2Nda.png)
+
 ## Phoneme table
 
 Here is a table of the phonemes used for conversion in both dictionaries (in bold), additional phonemes are added.
+For more information on each phoneme you can consult the wiki (WIP).
 
 | [IPA](https://en.wikipedia.org/wiki/Help:IPA/French) | Chinese X-SAMPA | English Arpabet | French Arpabet |
 | ------------- | ------------- | ------------- | ------------- |
