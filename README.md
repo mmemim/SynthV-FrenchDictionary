@@ -18,23 +18,27 @@ You can learn more about French Synth and UTAUS on [utaufrance.com](https://utau
 - [utaufrance.com](https://utaufrance.com/)
 - [Word request thread](#)
 
-## How to install dictionaries on Windows
+## How to download install dictionaries on Windows
 
-[Video tutorial on how to install dictionaries on Windows](https://www.youtube.com/watch?v=LI8hWO2PJGU)
+- To download any dictionary, click on the filename and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
+
+![dictionaryDL](https://i.imgur.com/hKnkNCB.png)
+
+[>>>>>>>>Video tutorial on how to install dictionaries on Windows<<<<<<<<<](https://www.youtube.com/watch?v=LI8hWO2PJGU)
 
 -  Open SynthV and load the voice you want to use with the dictionary you downloaded. In the `Dictionary`panel, click on `New...` and then name the dictionary with the same name as the .json file (`CHN2FRA`, `ENG2FRA`, `JPN2FRA` or `ANY2FRA`). Make sure the language and phonemes match with your dictionary. The `ANY2FRA` dictionary can be used with any language or phonemes.
 
 ![CreateDictionary](https://i.imgur.com/XwpXmlU.png)
 
-- You can now drag and drop the .json file in the `mandarin-xsampa`, `japanese-romaji` or `english-arpabet` folder in your Synthesizer V install, the path should be `Dreamtonics/Synthesizer V/dicts/language-alphabet`.
+- You can now drag and drop the .json file in the `mandarin-xsampa`, `japanese-romaji` or `english-arpabet` folder in your Synthesizer V install, the path should be `Dreamtonics/Synthesizer V/dicts/language-alphabet`. The `ANY2FRA` dictionary can be dropped in every folder.
 
-![DictionaryFolder](https://i.imgur.com/kHjXSCy.png)
+![DictionaryFolder](https://i.imgur.com/Wc8jn3S.png)
 
 - Reload Synthesizer V and you should now be able to select your dictionary.
 
 ## How to add a word
 
-If you want to add a word to the dictionary, please add it to the [Open Utau Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary#how-to-add-a-word). You can also request words to be added in [issues](https://github.com/mmemim/OpenUTAU-French-Dictionary/issues).
+If you want to add a word to the dictionary, please add it to the [Open Utau Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary#how-to-add-a-word). You can also request words to be added [here](https://github.com/mmemim/SynthV-FrenchDictionary/issues/1).
 
 ## How to use the dictionary
 
