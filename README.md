@@ -3,6 +3,8 @@ English to French and Chinese to French .json dictionaries for [Synthesizer V](h
 
 You can learn more about French Synth and UTAUS on [utaufrance.com](https://utaufrance.com/) & if there's any issue, you can contact me through my [Twitter](https://twitter.com/mmem1m).
 
+#### There may be wrong entries in the dictionary, please report them if so. This dictionary is by no means a plug and play solution and phoneme tweaking will still be required in order to make French Synthesizer V covers.
+
 ✨ Feel free to contribute or ask for words to be added. ✨
 
 ### Table of contents
