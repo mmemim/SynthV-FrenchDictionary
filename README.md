@@ -39,7 +39,7 @@ Just follow the two steps below :
 
 ## How to add a word
 
-If you want to add a word to the dictionary, please add it to the [Open Utau Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary#how-to-add-a-word). You can also requests words to be added in [issues](https://github.com/mmemim/OpenUTAU-French-Dictionary/issues).
+If you want to add a word to the dictionary, please add it to the [Open Utau Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary#how-to-add-a-word). You can also request words to be added in [issues](https://github.com/mmemim/OpenUTAU-French-Dictionary/issues).
 
 ## How to use the dictionary
 
