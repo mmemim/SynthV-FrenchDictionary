@@ -8,15 +8,16 @@ You can learn more about French Synth and UTAUS on [utaufrance.com](https://utau
 ✨ Feel free to contribute or ask for words to be added. ✨
 
 ### Table of contents
-- [How to download and install dictionaries on Windows]()
-- [How to add a word]()
-- [How to use the dictionary]()
-- [Phoneme table]()
-- [FAQ]()
+- [How to download and install dictionaries on Windows](https://github.com/mmemim/SynthV-FrenchDictionary#how-to-download-install-dictionaries-on-windows)
+- [How to add a word](https://github.com/mmemim/SynthV-FrenchDictionary#how-to-add-a-word)
+- [How to use the dictionary](https://github.com/mmemim/SynthV-FrenchDictionary#how-to-use-the-dictionary)
+- [Phoneme table](https://github.com/mmemim/SynthV-FrenchDictionary#phoneme-table)
+- [FAQ](https://github.com/mmemim/SynthV-FrenchDictionary#faq)
+- [Wiki](https://github.com/mmemim/SynthV-FrenchDictionary/wiki)
 
 ### See Also
 - [utaufrance.com](https://utaufrance.com/)
-- [Word request thread](#)
+- [Word request thread](https://github.com/mmemim/SynthV-FrenchDictionary/issues/1)
 
 ## How to download install dictionaries on Windows
 
