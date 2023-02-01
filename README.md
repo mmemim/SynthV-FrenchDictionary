@@ -1,5 +1,5 @@
 # SynthV-FrenchDictionary
-English to French and Chinese to French .json dictionaries for [Synthesizer V](https://dreamtonics.com/en/synthesizerv/), based on the [French CMU Pronouncing Dictionary](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/French/). It is converted from the [Open Utau French Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary), both are updated regularly.
+English to French, Chinese to French, Japanese to French & Multi-lingual to French .json dictionaries for [Synthesizer V](https://dreamtonics.com/en/synthesizerv/), based on the [French CMU Pronouncing Dictionary](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/French/). It is converted from the [Open Utau French Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary), both are updated regularly.
 
 You can learn more about French Synth and UTAUS on [utaufrance.com](https://utaufrance.com/) & if there's any issue, you can contact me through my [Twitter](https://twitter.com/mmem1m).
 
@@ -23,13 +23,13 @@ You can learn more about French Synth and UTAUS on [utaufrance.com](https://utau
 If you just want to install the dictionary without contributing, you won't need a Github account or to understand how to use Git.
 Just follow the two steps below : 
 
--  First, download the [CHN2FRA.json](#) or [ENG2FRA.json](#) file by clicking on the filename and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
+-  First, download the [CHN2FRA.json](#), [ENG2FRA.json](#), [JPN2FRA.json](#) or [ANY2FRA.json](#) file by clicking on the filename and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
 
 ///
 
 [Video tutorial on how to install dictionaries on Windows](https://www.youtube.com/watch?v=LI8hWO2PJGU)
 
--  Open SynthV and load the voice you want to use with the dictionary you downloaded. In the `Dictionary`panel, click on `New...` and then name the dictionary with the same name as the .json file (either `CHN2FRA` or `ENG2FRA`). Make sure the language and phonemes match with your dictionary.
+-  Open SynthV and load the voice you want to use with the dictionary you downloaded. In the `Dictionary`panel, click on `New...` and then name the dictionary with the same name as the .json file (`CHN2FRA`, `ENG2FRA`, `JPN2FRA` or `ANY2FRA`). Make sure the language and phonemes match with your dictionary. The `ANY2FRA` dictionary can be used with any language or phonemes.
 
 ![CreateDictionary](https://i.imgur.com/XwpXmlU.png)
 
