@@ -5,6 +5,56 @@ You can learn more about French Synth and UTAUS on [utaufrance.com](https://utau
 
 ✨ Feel free to contribute or ask for words to be added. ✨
 
+### Table of contents
+- [How to download and install dictionaries on Windows]()
+- [How to add a word]()
+- [How to use the dictionary]()
+- [Phoneme table]()
+- [FAQ]()
+
+### See Also
+- [utaufrance.com](https://utaufrance.com/)
+- [Word request thread](#)
+
+## How to download and install dictionaries on Windows
+
+If you just want to install the dictionary without contributing, you won't need a Github account or to understand how to use Git.
+Just follow the two steps below : 
+
+-  First, download the [CHN2FRA.json](#) or [ENG2FRA.json](#) file by clicking on the filename and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
+
+///
+
+[Video tutorial on how to install dictionaries on Windows](https://www.youtube.com/watch?v=LI8hWO2PJGU)
+
+-  Open SynthV and load the voice you want to use with the dictionary you downloaded. In the `Dictionary`panel, click on `New...` and then name the dictionary with the same name as the .json file (either `CHN2FRA` or `ENG2FRA`). Make sure the language and phonemes match with your dictionary.
+
+![CreateDictionary](https://i.imgur.com/XwpXmlU.png)
+
+- You can now drag and drop the .json file in the `mandarin-xsampa` or `english-arpabet` folder in your Synthesizer V install, the path should be `Dreamtonics/Synthesizer V/dicts/language-alphabet`.
+
+![DictionaryFolder](https://i.imgur.com/kHjXSCy.png)
+
+- Reload Synthesizer V and you should now be able to select your dictionary.
+
+## How to add a word
+
+If you want to add a word to the dictionary, please add it to the [Open Utau Dictionary](https://github.com/mmemim/OpenUTAU-French-Dictionary#how-to-add-a-word). You can also requests words to be added in [issues](https://github.com/mmemim/OpenUTAU-French-Dictionary/issues).
+
+## How to use the dictionary
+
+You can type a word in French and split it in syllables with `+`. Because of the way Synth V handles syllables in Chinese, you'll have to add additional splits for CCs as shown below.
+
+![WordSplitting](https://i.imgur.com/GC7yjcb.png)
+
+If you want to say words like `l'année` or `j'en` you'll have to split them in two notes `l'` + `année` and `j'` + `en` as shown below.
+
+![WordCombination](https://i.imgur.com/5K9zgrE.png)
+
+In French, you also have [liaisons](https://en.wikipedia.org/wiki/Liaison_(French)), and some words might not always be pronounced the same way. Because of that, you may sometimes need to put `word(2)`, `word(3)` or even `word(4)`. For example, `absentes` has 4 entries.
+
+![WordEntries](https://i.imgur.com/MsXgO0o.png)
+
 ## Phoneme table
 
 Here is a table of the phonemes used for conversion in both dictionaries (in bold), additional phonemes are added.
@@ -44,3 +94,7 @@ Here is a table of the phonemes used for conversion in both dictionaries (in bol
 | j : pa**y**er | j | y | yy |
 | w : **ou**i | w | w | ww |
 | ɥ : h**ui**t | y | **uw**/uh | uy |
+
+## FAQ
+
+To be updated
